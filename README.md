@@ -1,3 +1,0 @@
-# goroute
-
-route identifying app
